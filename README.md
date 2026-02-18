@@ -12,7 +12,7 @@ Instale os pacotes:
 pip install -r requirements.txt
 
 
-Abra o notebook e execute as células:
+Abra o notebook (notebook.ipynb) e execute as células:
 
 jupyter notebook notebooks/notebook.ipynb]
 
